@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Max Joseph
+  affiliation: Earth Lab
+  github: mbjoseph
   interests:
+    - Ecology
+    - Bayesian stats
     - Programming
-    - Open Science

@@ -3,8 +3,8 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Our Study Group
-description: "A study group."
+title: Earth Lab Data Meetup
+description: "Scientists at the interface of the Earth data deluge, machine learning, programming, mathematics, geo-hacking, and computer science"
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -18,8 +18,8 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To Our Study Group!"
+titleBackground: "img/west-us.jpg"
+headlineSmall: "Welcome To Our Group!"
 headlineMain: "Let's Work Together"
 
 # Setup Google Calendar

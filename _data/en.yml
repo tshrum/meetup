@@ -10,7 +10,7 @@ activities:
     description: 'Get together to work on your research projects, help each other out and share your work.'
     icon: fa-laptop
   - title: Community Building
-    description: 'Build connections and find out what we can do when we work together.'
+    description: 'Build connections with other scientists and find out what we can do when we work together.'
     icon: fa-group
   - title: Co-Learning
     description: 'Learn new skills collaboratively with online courses, textbooks, and invited speakers in a friendly, no-pressure setting.'
